@@ -1,0 +1,17 @@
+
+1) Ray-Ban glasses :
+   A fashionable accessory with a decent and classy look. 
+   High protection against sunglare.
+   Price - $120.99
+
+
+2) Titan Watch :
+   This elegant watch features a classic design with modern functionality.<br/>
+   Perfect for any occasion.
+   Price - $90.11
+
+3) Nike Shoes :
+   These Sneakers are the perfect blend of style and
+   provides all-day support for your active lifestyle.
+   Price - $150.99
+
